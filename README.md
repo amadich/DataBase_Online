@@ -11,8 +11,8 @@ In this way, we access the files on the hosting to complete the connection with 
 ```js
 useEffect(() => {
     
-    const urllocal = "https://hostname.com/server/mySQL.php";
-    Axios.get(urllocal).then((response) => {
+    const url = "https://hostname.com/server/mySQL.php";
+    Axios.get(url).then((response) => {
       setmyinfo(response.data);
     })
     
