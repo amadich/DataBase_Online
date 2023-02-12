@@ -10,11 +10,12 @@ A new and interesting idea, creating a website with react, php and mySQL, and co
 In this way, we access the files on the hosting to complete the connection with the databases and thus send us information
 ```js
 useEffect(() => {
-    console.log(1);
+    
     const urllocal = "https://hostname.com/server/mySQL.php";
     Axios.get(urllocal).then((response) => {
       setmyinfo(response.data);
     })
+    
   }, [])
 ```
 # Warning
