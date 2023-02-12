@@ -33,7 +33,7 @@ You must make sure that you are working on paid https hosting
 
 ###
 
-soory but my host cp1.biz.nf of my web Burgeranime not Access SSL ❌😥:
+Sorry but my host cp1.biz.nf of my web Burgeranime not Access SSL ❌😥:
 ![image](https://user-images.githubusercontent.com/74735976/218321943-ffab7b98-fe6a-4cf6-aba0-e8d126c96458.png)
 
 
