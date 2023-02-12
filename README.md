@@ -12,3 +12,8 @@ useEffect(() => {
     })
   }, [])
 ```
+# Warning
+![image](https://user-images.githubusercontent.com/74735976/218320377-29b095e3-c6a9-4993-9032-9725ea5e84ae.png)
+Many people will see this error, and the reason is the combination of https and http
+You must make sure that you are working on paid https hosting
+###
