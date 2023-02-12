@@ -24,5 +24,6 @@ Many people will see this error, and the reason is the combination of https and 
 You must make sure that you are working on paid https hosting
 
 ![image](https://user-images.githubusercontent.com/74735976/218320377-29b095e3-c6a9-4993-9032-9725ea5e84ae.png)
+![image](https://user-images.githubusercontent.com/74735976/218321569-0929cb55-05a9-4ec0-984e-bee5fba801af.png)
 
 ###
