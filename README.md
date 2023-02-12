@@ -27,3 +27,8 @@ You must make sure that you are working on paid https hosting
 ![image](https://user-images.githubusercontent.com/74735976/218321569-0929cb55-05a9-4ec0-984e-bee5fba801af.png)
 
 ###
+
+# make sure your hosing Using Public PHP {phpmyadmin} :
+![image](https://user-images.githubusercontent.com/74735976/218321732-f12b91a1-a1e6-4e1d-a654-98c7387da24d.png)
+
+# Enjoy 🌹
