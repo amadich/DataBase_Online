@@ -31,4 +31,11 @@ You must make sure that you are working on paid https hosting
 # make sure your hosing Using Public PHP {phpmyadmin} :
 ![image](https://user-images.githubusercontent.com/74735976/218321732-f12b91a1-a1e6-4e1d-a654-98c7387da24d.png)
 
-# Enjoy 🌹
+###
+
+soory but my host cp1.biz.nf of my web Burgeranime not Access SSL ❌😥:
+![image](https://user-images.githubusercontent.com/74735976/218321943-ffab7b98-fe6a-4cf6-aba0-e8d126c96458.png)
+
+
+# Enjoy 🌹 
+
