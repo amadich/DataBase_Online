@@ -28,7 +28,7 @@ You must make sure that you are working on paid https hosting
 
 ###
 
-# make sure your hosing Using Public PHP {phpmyadmin} :
+# make sure your hosting Using Public PHP {phpmyadmin} :
 ![image](https://user-images.githubusercontent.com/74735976/218321732-f12b91a1-a1e6-4e1d-a654-98c7387da24d.png)
 
 ###
